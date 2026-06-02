@@ -4,6 +4,15 @@ body {
     padding: 0 20px;
     font-family: sans-serif;
     line-height: 1.8;
+    color: #333;
+}
+
+a {
+    color: #0066cc;
+}
+
+a:hover {
+    opacity: 0.8;
 }
 
 h1 {
