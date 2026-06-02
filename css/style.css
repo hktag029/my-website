@@ -36,6 +36,11 @@ nav a:hover {
     margin: 20px auto;
 }
 
+.date {
+    color: #666;
+    font-size: 0.9em;
+}
+
 footer {
     margin-top: 50px;
     color: #666;
