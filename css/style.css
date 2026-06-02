@@ -25,6 +25,11 @@ nav a {
     text-decoration: none;
 }
 
+.post-image {
+    width: 300px;
+    max-width: 100%;
+}
+
 nav a:hover {
     text-decoration: underline;
 }
