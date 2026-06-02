@@ -41,6 +41,13 @@ nav a:hover {
     font-size: 0.9em;
 }
 
+.profile-image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
 footer {
     margin-top: 50px;
     color: #666;
